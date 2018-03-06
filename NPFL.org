@@ -1,0 +1,54 @@
+* Call for Papers
+
+We invite submissions in the form of an abstract of 200-300
+words. Talks can be on experiences of using functional languages in
+numerical applications and also on theoretical aspects of numerical
+computing in functional languages.
+
+Topics of interest include (but not limited to):
+
+ * Embedded domain specific languages for expressing numerical
+   problems and generating efficient code e.g. generating llvm à la
+   Julia / Haskell accelerate
+ * Use of types to ensure static correctness of matrix and higher rank
+   computations e.g. use Naperian aka representable functors for
+   statically type APL-like programming
+ * Dynamical systems / solving systems of ODEs
+ * PDEs using e.g. grid-based methods, method of characteristics,
+   method of lines
+ * Inferring parameters for statistical models using techniques such
+   as Sequential Monte Carlo / Hamiltonian Monte Carlo
+ * Data exploration, reproducibility
+ * Use of e.g SMT theorem proving, interval and affine arithmetic and
+   function derivatives to prove error bounds for programs using
+   floating point arithmetic
+ * Formal verification of numerical analysis programs for example
+   using e.g the Coq proof assistant
+ * Global approximation methods chebyshev polynomials
+ * Compiler optimisations
+ * Exact real arithmetic / interval arithmetic
+ * Using type systems to annotate values with physical units
+
+In case it is not obvious, all submissions should be related to
+numerical methods and functional programming.
+
+** Instructions to authors
+
+Abstracts should be submitted online via EasyChair (via the “NMFP'18”
+event). The submission page is https://easychair.org/cfp/content.cgi?a=17794955.
+
+Submitted papers should be in portable document format (PDF).
+
+** Related Links
+
+ * ICFP 2018 web site: https://icfp18.sigplan.org/
+ * EasyChair submission site: https://easychair.org/cfp/content.cgi?a=17794955
+ * Author Information for SIGPLAN Conferences: http://www.sigplan.org/authorInformation.htm
+ * Atendee Information for SIGPLAN Events: http://www.sigplan.org/Resources/Policies/CodeOfConduct/
+
+** Dates
+
+ * Friday 13th July Submission Deadline
+ * Friday 10th August Author Notification
+ * Thursday 27th September Numerical Methods in Functional Programming Workshop
+
