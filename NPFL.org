@@ -12,7 +12,7 @@ Topics of interest include (but not limited to):
    Julia / Haskell accelerate
  * Use of types to ensure static correctness of matrix and higher rank
    computations e.g. use Naperian aka representable functors for
-   statically type APL-like programming
+   statically typed APL-like programming
  * Dynamical systems / solving systems of ODEs
  * PDEs using e.g. grid-based methods, method of characteristics,
    method of lines
@@ -24,9 +24,9 @@ Topics of interest include (but not limited to):
    floating point arithmetic
  * Formal verification of numerical analysis programs for example
    using e.g the Coq proof assistant
- * Global approximation methods chebyshev polynomials
+ * Global approximation methods by e.g. Chebyshev polynomials
  * Compiler optimisations
- * Exact real arithmetic / interval arithmetic
+ * Exact real arithmetic / interval arithmetic / ball arithmetic
  * Using type systems to annotate values with physical units
 
 In case it is not obvious, all submissions should be related to
