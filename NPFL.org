@@ -34,15 +34,13 @@ numerical methods and functional programming.
 
 ** Instructions to authors
 
-Abstracts should be submitted online via EasyChair (via the “NMFP'18”
-event). The submission page is https://easychair.org/cfp/content.cgi?a=17794955.
-
-Submitted papers should be in portable document format (PDF).
+Abstracts should be submitted online via [[https://npfl18.hotcrp.com][hotcrp]] and submitted papers
+should be in portable document format (PDF).
 
 ** Related Links
 
  * ICFP 2018 web site: https://icfp18.sigplan.org/
- * EasyChair submission site: https://easychair.org/cfp/content.cgi?a=17794955
+ * hotcrp submission site: https://npfl18.hotcrp.com
  * Author Information for SIGPLAN Conferences: http://www.sigplan.org/authorInformation.htm
  * Atendee Information for SIGPLAN Events: http://www.sigplan.org/Resources/Policies/CodeOfConduct/
 
